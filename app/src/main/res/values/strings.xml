@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PZ2</string>
+    <string-array name="faculties">
+        <item>ФИТУ</item>
+        <item>ФКСиС</item>
+        <item>ФКП</item>
+        <item>ФРЭ</item>
+        <item>ФИК</item>
+        <item>ИЭФ</item>
+        <item>Военный факультет</item>
+        <item>ФДПиПО</item>
+    </string-array>
+    <string name="faculty_prompt">Факультет</string>
+</resources>
