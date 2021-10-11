@@ -44,7 +44,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="2dp"
-            android:ems="10"
             android:hint="Фамилия"
             android:inputType="textPersonName" />
 
@@ -53,7 +52,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="2dp"
-            android:ems="10"
             android:hint="Имя"
             android:inputType="textPersonName" />
 
@@ -61,9 +59,7 @@
             android:id="@+id/patronymic"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="2dp"
-            android:ems="10"
-            android:hint="Отчество"
+            android:layout_marginBottom="2dp" android:hint="Отчество"
             android:inputType="textPersonName" />
 
         <EditText
@@ -71,7 +67,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="2dp"
-            android:ems="10"
             android:hint="Номер группы"
             android:inputType="number" />
 
@@ -80,7 +75,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:ems="10"
             android:hint="Факультет"
             android:inputType="text" />
 
